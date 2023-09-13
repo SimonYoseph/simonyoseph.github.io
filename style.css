@@ -1,0 +1,103 @@
+html {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(120deg,#0f52ba ,#B65FCF);
+    /*  background: linear-gradient(20deg,#0f52ba 35%, rgb(221, 187, 187) 65%);*/
+    font-family: sans-serif;    
+    /* verdana, monospace; */
+}
+
+*{
+    margin-top: 25;
+    padding: 20;
+    font-family: sans-serif;
+    color: #FAF9F6;
+}
+.backgroundInfo{
+
+    border-bottom: groove black;
+    border-radius: 65;
+    border-spacing: 5cm;
+}
+
+
+#learn{
+    font-family: 'chalkduster';
+    color: #D3D3D3;
+    color: #fff;
+    text-shadow: 2px 0 0 #000, 0 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000;
+  }
+
+  #quote{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 100%;
+    font-family: verdana, monospace;
+}
+
+#quote-signature{
+    font-family: cursive;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+
+  #adapt{
+    font-family: 'ocr a std', 'luminari';
+    text-shadow: 2px 0 0 #000, 0 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000;
+  }
+
+  #create{
+    font-family: cursive;
+    text-shadow: 2px 0 0 #000, 0 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000;
+
+  }
+
+  #grow{
+    font-family: 'ocr a std', monospace;
+    text-shadow: 2px 0 0 #000, 0 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000;
+  }
+
+  #whoAmI{
+    font-weight: 600;
+    font-variant: small-caps;
+  }
+
+  #iAm{
+    word-spacing: 18px;
+    font-family: 'impact', fantasy;
+    margin-top: 33px;
+    margin-left: 42px;
+    font-size: 50px;
+  }
+
+  #first-Name{
+    margin-left: 55px;
+      font-size: 180px;
+      font-weight: 900;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+
+  /* SIMON YOSEPH name hover effect */
+  div#first-Name:hover{
+    color:#D3D3D3;
+    text-decoration: none;
+  }
+  
+
+  div#last-Name:hover{
+    color:#D3D3D3;
+    text-decoration: none;
+  }
+
+ 
+
+
+  #last-Name{
+    margin-left: 55px;
+      font-size: 180px;
+      font-weight: 900;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+      opacity: 50%;
+  }
